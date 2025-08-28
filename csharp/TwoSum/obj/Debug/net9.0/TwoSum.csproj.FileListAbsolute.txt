@@ -1,0 +1,15 @@
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/bin/Debug/net9.0/TwoSum
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/bin/Debug/net9.0/TwoSum.deps.json
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/bin/Debug/net9.0/TwoSum.runtimeconfig.json
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/bin/Debug/net9.0/TwoSum.dll
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/bin/Debug/net9.0/TwoSum.pdb
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.AssemblyInfoInputs.cache
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.AssemblyInfo.cs
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.csproj.CoreCompileInputs.cache
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.sourcelink.json
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.dll
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/refint/TwoSum.dll
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.pdb
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/TwoSum.genruntimeconfig.cache
+/Users/oliviavasquez/Projects/leet-code-solutions/csharp/TwoSum/obj/Debug/net9.0/ref/TwoSum.dll
