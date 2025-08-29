@@ -1,4 +1,5 @@
 ﻿using System;
+using Solutions;  // allow referencing my solutions
 
 class Program
 {
