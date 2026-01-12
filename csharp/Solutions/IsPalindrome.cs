@@ -1,7 +1,7 @@
 using System;
 using System.Text; // Needed for StringBuilder
 
-public class Solution {
+public class IsPalindromeSolution {
     // Method to check if a string is a palindrome, ignoring non-alphanumeric characters and case
     public bool IsPalindrome(string s) {
         
